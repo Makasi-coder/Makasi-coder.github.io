@@ -1,5 +1,3 @@
-
- 
 /*=========================================== 
  * Importing CSS Libraries
  *===========================================*/
@@ -1230,13 +1228,13 @@ form input[type="submit"], form button, form input[type="reset"] {
     .hero .slides .slide-subtitle {
       font-size: 30px;
       font-size: 2.1428571429em;
-      font-weight: 700;
+      font-weight: 400;
       margin-bottom: 30px;
       display: block; }
     .hero .slides .slide-title {
       font-size: 60px;
-      font-size: 4.2857142857em;
-      font-weight: 100;
+      font-size: 3.2857142857em;
+      font-weight: 700;
       margin-bottom: 50px; }
     .hero .slides .button, .hero .slides form input[type="submit"], form .hero .slides input[type="submit"], .hero .slides form button, form .hero .slides button, .hero .slides form input[type="reset"], form .hero .slides input[type="reset"] {
       position: relative;
@@ -1340,7 +1338,7 @@ form input[type="submit"], form button, form input[type="reset"] {
     font-size: 14px;
     font-size: 1em; }
   .event-list .event-meta {
-    position: absolute;
+    position:;
     width: 50%;
     right: 0;
     color: #a59e95;
