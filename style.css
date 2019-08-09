@@ -233,7 +233,14 @@ address {
   font-style: normal; }
 
 p {
+
   margin-top: 0; }
+
+p.black {
+  font-size:15px;
+  font-family: "Times-New-Roman", "serif"
+  margin-top: 0;
+}
 
 form input, form textarea, form select {
   outline: none;
