@@ -1440,11 +1440,11 @@ form input[type="submit"], form button, form input[type="reset"] {
   @media screen and (max-width: 480px) {
     .family {
       width: 100%; } }
-  .family .family-image {
+  .family .family-image { 
     width: 100%;
-    height: auto;
     max-width: 100%;
-    margin-bottom: 10px; }
+    height: auto;
+    margin-bottom: 20px;}
   .family .family-name {
     margin-bottom: 5px;
     font-size: 14px;
