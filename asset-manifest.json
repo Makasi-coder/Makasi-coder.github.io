@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.af2f6061.chunk.css",
-    "main.js": "/static/js/main.4d82200e.chunk.js",
-    "main.js.map": "/static/js/main.4d82200e.chunk.js.map",
+    "main.css": "/static/css/main.a9ec0588.chunk.css",
+    "main.js": "/static/js/main.61be1d6b.chunk.js",
+    "main.js.map": "/static/js/main.61be1d6b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.11d656ab.js",
     "runtime-main.js.map": "/static/js/runtime-main.11d656ab.js.map",
     "static/css/2.3c03f26f.chunk.css": "/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.2c4214c3.chunk.js": "/static/js/2.2c4214c3.chunk.js",
-    "static/js/2.2c4214c3.chunk.js.map": "/static/js/2.2c4214c3.chunk.js.map",
+    "static/js/2.6d0be50a.chunk.js": "/static/js/2.6d0be50a.chunk.js",
+    "static/js/2.6d0be50a.chunk.js.map": "/static/js/2.6d0be50a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6478be9ab5dfa1d9198b3c68763a818b.js": "/precache-manifest.6478be9ab5dfa1d9198b3c68763a818b.js",
+    "precache-manifest.e5f53c487756f66d80cd020095f55f97.js": "/precache-manifest.e5f53c487756f66d80cd020095f55f97.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.af2f6061.chunk.css.map": "/static/css/main.af2f6061.chunk.css.map",
-    "static/js/2.2c4214c3.chunk.js.LICENSE.txt": "/static/js/2.2c4214c3.chunk.js.LICENSE.txt",
+    "static/css/main.a9ec0588.chunk.css.map": "/static/css/main.a9ec0588.chunk.css.map",
+    "static/js/2.6d0be50a.chunk.js.LICENSE.txt": "/static/js/2.6d0be50a.chunk.js.LICENSE.txt",
     "static/media/C&J.jpg": "/static/media/C&J.9de047e8.jpg",
     "static/media/DEI.jpg": "/static/media/DEI.e3d6e99e.jpg",
     "static/media/DSCT.jpg": "/static/media/DSCT.da98a80d.jpg",
     "static/media/December.jpg": "/static/media/December.43f4c72b.jpg",
     "static/media/ICT.jpg": "/static/media/ICT.71e102c1.jpg",
     "static/media/Makange.jpg": "/static/media/Makange.826e2cdb.jpg",
+    "static/media/Meena.jpeg": "/static/media/Meena.0a76cc50.jpeg",
     "static/media/Paschal.jpg": "/static/media/Paschal.5f8a6f2b.jpg",
     "static/media/Proches.jpg": "/static/media/Proches.485bacc6.jpg",
     "static/media/department.png": "/static/media/department.ec8141c3.png",
@@ -33,8 +34,8 @@
   "entrypoints": [
     "static/js/runtime-main.11d656ab.js",
     "static/css/2.3c03f26f.chunk.css",
-    "static/js/2.2c4214c3.chunk.js",
-    "static/css/main.af2f6061.chunk.css",
-    "static/js/main.4d82200e.chunk.js"
+    "static/js/2.6d0be50a.chunk.js",
+    "static/css/main.a9ec0588.chunk.css",
+    "static/js/main.61be1d6b.chunk.js"
   ]
 }
